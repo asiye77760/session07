@@ -1,0 +1,3 @@
+@import "./Query/setting/setting.css";
+@import "./Query/mobile/mobile.css" only screen and (min-width:420px);
+@import "./Query/desktop/desktop.css" only screen and (min-width:1000px);
